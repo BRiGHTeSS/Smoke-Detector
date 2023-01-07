@@ -1,1 +1,1 @@
-# Smoke-Detector
+# Smoke-Detector (Gen2)
