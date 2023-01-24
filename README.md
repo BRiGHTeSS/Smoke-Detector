@@ -5,4 +5,5 @@
 <h2>The following has been added:</h2>
 <p><b> - 6 red LED lights<br>
        - LCD Screen I2C 16x2<br>
-</p>
+       </p>
+<h2>How does it works?</h2>       
