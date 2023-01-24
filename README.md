@@ -7,3 +7,4 @@
        - LCD Screen I2C 16x2<br>
        </p>
 <h2>How does it works?</h2>       
+<img src="" alt="working">
